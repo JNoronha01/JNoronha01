@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @JNoronha01
-- 👀 I’m interested in all the I.T stuffs
-- 🌱 I’m currently learning Front and Back end
-- 💞️ I’m looking to collaborate on where i have a opportunity
-- 📫 How to reach me: on my email: jorgenoronhaneto@gmail.com, Linkedin: https://www.linkedin.com/in/jorge-noronha-neto-49a363290/ or my phone number: 11970691794
+# 🛹 Noronha
 
-<!---
-JNoronha01/JNoronha01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**`Dev em crescimento`**
+
+Engenheiro de Software, Dev Backend, seguidor de Jesus, e na procura da minha primeira vaga na área tech 😉
+
+   <p align="left">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label= LinkedIn&logoColor=white"/></a>
+         <img alt="loc" title="loc minha" src="https://custom-icon-badges.demolab.com/badge/Sampa-BRA-green?style=for-the-badge&logo=location&logoColor=white"/></a>
+   </p>
